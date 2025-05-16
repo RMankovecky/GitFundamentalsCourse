@@ -1,1 +1,3 @@
 In course "git fundamentals" the repository is created in bitbucket. I have decided to keep my repositories on GitHub, because i already have created few repositories before this course and for comfortability reason, I want to keep all of them on one platform.
+
+Additionally, the parent folder/repository name is changed from "LibraryManagement" to "GitFundamentalsCourse" for clarification.
