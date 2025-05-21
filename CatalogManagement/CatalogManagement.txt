@@ -4,8 +4,7 @@ This change is made in remote repo.
 
 This statement is for undoing things.
 
-<<<<<<< HEAD
 this change was made by team B.
-=======
+
 this is new change done by team A.
->>>>>>> 3470060ed2f8ab3280ef251a0a3d76c13b499989
+
